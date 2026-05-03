@@ -140,10 +140,7 @@ weather-forecast-app/
 
 ## 👨‍💻 Author
 
-**Rudra Pratap Singh**  
+**Raghav Awasthi**  
 Frontend Developer | React.js Enthusiast
-
-- [GitHub](https://github.com/RudraSingh05)
-- [LinkedIn](https://www.linkedin.com/in/rudra-pratap-singh-cse/)
 
 ---
